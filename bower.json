@@ -1,0 +1,22 @@
+{
+  "name": "gmaps-directive",
+  "homepage": "https://github.com/ga-students/WDI_LDN_18_CLASSWORK",
+  "authors": [
+    "mickyginger <mickyginger@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.2"
+  }
+}
